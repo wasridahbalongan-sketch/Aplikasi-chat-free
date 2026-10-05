@@ -1,0 +1,6 @@
+{
+  "name": "ZallCall",
+  "description": "Aplikasi pesan instan lengkap dengan Voice Note, Video Call, Telepon Suara, Status/Story (SW), pendaftaran akun, dan sinkronisasi database server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ZallCall</string>
+    <string name="tab_chats">Chat</string>
+    <string name="tab_status">Status (SW)</string>
+    <string name="tab_calls">Panggilan</string>
+    <string name="tab_server">Server &amp; Profil</string>
+    <string name="auth_title">Selamat Datang di ZallCall</string>
+    <string name="auth_subtitle">Pesan Instan, Voice Note, Video Call &amp; Status (SW) Terenkripsi</string>
+    <string name="btn_register">Daftar &amp; Masuk</string>
+    <string name="btn_verify_otp">Verifikasi OTP Server</string>
+    <string name="hint_phone">Nomor Telepon (cth: +628123456789)</string>
+    <string name="hint_name">Nama Lengkap Anda</string>
+    <string name="hint_bio">Bio / Info Status</string>
+    <string name="hint_message">Ketik pesan...</string>
+    <string name="search_chats">Cari chat atau kontak...</string>
+    <string name="new_chat">Chat Baru</string>
+    <string name="new_status">Buat Status (SW)</string>
+    <string name="voice_call">Panggilan Suara</string>
+    <string name="video_call">Panggilan Video</string>
+    <string name="end_call">Akhiri Panggilan</string>
+    <string name="record_vn">Rekam Voice Note</string>
+    <string name="server_connected">Server Terhubung (WSS/REST Sync Aktif)</string>
+</resources>
